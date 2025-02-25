@@ -46,7 +46,11 @@ I want to continue to to grow and hone skills in Python, SQL, Spark, and R Studi
 
 ### Resume:
 
+[Resume](https://docs.google.com/document/d/1byuG8tYpItMAiGue-U5CjTKyp0v95wMl/edit?usp=sharing&ouid=100501801542570084087&rtpof=true&sd=true)
+
 ### CV:
+
+[CV](https://docs.google.com/document/d/1KBgTsVFdj4wzJecCle7qudL43AN5v-IM/edit?usp=sharing&ouid=100501801542570084087&rtpof=true&sd=true)
 
 
 
