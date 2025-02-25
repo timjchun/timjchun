@@ -142,7 +142,7 @@ Ableton Live, Logic Pro X
 ---
 
 ## Hobbies and Personal Interests
-I have a passion of outdoor Bouldering and Board climbing. I have a long term goal of sending local Maryland Boulders and documenting the journey. I spend most of my time training on the Tension Board and Spray Wall.
+I have a passion of outdoor bouldering and board climbing. I have a long term goal of sending local Maryland Boulders and documenting the journey. I spend most of my time training on the Tension Board and Spray Wall.
 
 I grew up with a passion with sound design. During my early twenties, I learned how to create software instruments from Foley (found sounds) which was used for sound design and ambient music. I primarily use Ableton Live.
 
