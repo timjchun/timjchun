@@ -36,9 +36,10 @@ I hope this page will give additional insight into who I am.
 ---
 
 ## Goals: 
-I want to grow and hone in data management skills. I have an interest in database systems. 
+I want to grow data management skills. I have an interest in database systems.
 Learning and being involved in data stacks is of interest to me. 
 I want to continue to to grow and hone skills in Python, SQL, Spark, and R Studio. Additionally get experience in more software. 
+I want to add value to any organization I am associated with.
 
 ---
 
@@ -126,7 +127,7 @@ Hamedi, A., Chun, T., Ngo, D., Crock, L., Samuel, I., Barrett, J., Costanzo, M. 
 
 ---
 
-## Software
+## Software and Languages
 SPSS, SAS, R Studio, Python, Spark, Excel, PowerQuery, Tableau, PowerBI, Google Looker Studio
 
 PostgreSQL, MySQL
