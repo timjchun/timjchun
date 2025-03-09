@@ -11,7 +11,7 @@ TimJChun.Work@gmail.com
 
 Born and based in Maryland, USA near the Washington DC Metropolitan. I have a BS in Community Health from the University of Maryland College Park from 2016.
 
-I am a researcher with interest in data management and database development. I spent 7 years working for the War Related Illness and Injury Study Center where I was able to grow as a researcher and data manager.
+I am a researcher with interest in data management and database development. I spent 8 years working for the War Related Illness and Injury Study Center where I was able to grow as a researcher and data manager.
 
 During my time at the WRIISC I specialized in military exposures research and post-deployment health concerns amongst 1990-1991 Gulf War Veterans. 
 
