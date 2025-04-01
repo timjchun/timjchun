@@ -150,6 +150,9 @@ I have a passion in Cinematography. I love the history of Cinema Lens and am exc
 
 I use BlackMagic Design's Davinci Resolve for color grading and editing. My current gear is BlackMagic Pocket Cinema Camera 4K and Original. I primarily use Sirui 35mm Anamorphic Lens. 
 
+### Outdoor Bouldering Youtube:
+[https://www.youtube.com/watch?v=SkdHx1QOULA](https://www.youtube.com/@timjchun)
+
 ### Sample Cinema Footage: 
 
 https://youtu.be/QbGwTWf3KTk
